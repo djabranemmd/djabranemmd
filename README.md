@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Ahmed Djabrane Mammadi !<br>A CS student passionate about turning ideas into code.  <br>🔧 Tech I love: HTML, CSS, JavaScript..etc<br>🌟 Currently learning: Fluter and Ethical Hacking.<br>📬 Reach me: mammadi.ahmeddjabrane@univ-ouargla.dz | [Portfolio](https://yourportfolio.link)</p>
+<p align="left">👋 Hi, I’m Ahmed Djabrane Mammadi !<br>A CS student passionate about turning ideas into code.  <br>🔧 Tech I love: HTML, CSS, JavaScript..etc<br>🌟 Currently learning: Fluter and Ethical Hacking.<br>📬 Reach me: mammadi.ahmeddjabrane@univ-ouargla.dz | [Portfolio](https://linktr.ee/djabranemmd)</p>
 
 ###
 

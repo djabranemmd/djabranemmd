@@ -1,92 +1,108 @@
-![Alt text](github.png)
+<h3 align="left">Welcome to my account 👋! I'm Ahmed Djabrane</h3>
 
-# Hi there, I'm Ahmed Djabrane 👋
+###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khamedtaha/)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/khamedtaha)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djabranemmd)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mammadi.a.djabrane@gmail.com)
+<p align="left">👋 Hi, I’m Ahmed Djabrane Mammadi !<br>A CS student passionate about turning ideas into code.  <br>🔧 Tech I love: HTML, CSS, JavaScript..etc<br>🌟 Currently learning: Fluter and Ethical Hacking.<br>📬 Reach me: mammadi.ahmeddjabrane@univ-ouargla.dz | [Portfolio](https://yourportfolio.link)</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khamedtaha&label=Profile%20views&color=0e75b6&style=flat" alt="khamedtaha" /> </p>
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=djabranemmd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dark&locale=en&hide_border=true&custom_title=Djabranemmd%20GitHub%20Stats" height="270" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=djabranemmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&custom_title=Most%20Used%20Languages" height="200" alt="languages graph"  />
+</div>
 
-## 🚀 About Me
+###
 
-I'm a **Computer Science graduate** with a passion for building robust backend systems and exploring the frontiers of AI/ML. Currently specializing in Python development, I have professional experience designing RESTful APIs with **Django**, **FastAPI**, and **Django REST Framework**. My work focuses on creating scalable solutions with clean architecture, while continuously expanding my expertise in data engineering and machine learning.
+<h3 align="center">My Programming Languages</h3>
 
-**Key Strengths :**  
+###
 
-✔️ Backend Development & API 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windicss" height="30" alt="windicss logo"  />
+</div>
 
-✔️ Python Development & Scripting  
+###
 
-✔️ Collaborative Problem Solving  
+<h3 align="center">My Skils</h3>
 
----
+###
 
-## 🛠️ Technical Arsenal
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+</div>
 
-### **Core Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+###
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<h3 align="center">My Accounts for communication</h3>
 
-### **Data & Machine Learning**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
+###
 
-### ** Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+<div align="center">
+  <a href="https://www.instagram.com/djabrane.mmd/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="mailto:mammadi.a.djabrane@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/djabranemammadi/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Djabrane_mmd" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/I.am.Zixl/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.youtube.com/@otobottechl3965" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://linktr.ee/djabranemmd" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="linktree logo"  />
+  </a>
+</div>
 
+###
 
+<h3 align="center">My Activity Schedule</h3>
 
----
+###
 
-## 📈 GitHub Analytics
+<br clear="both">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khamedtaha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khamedtaha&layout=compact&theme=algolia&langs_count=6"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khamedtaha&&theme=tokyonight" alt="khamedtaha" />  
-</p>
+<img src="https://raw.githubusercontent.com/djabranemmd/djabranemmd/output/snake.svg" alt="Snake animation" />
 
-
-
----
-
-## 🌟 Professional Philosophy
-
-> *"Clean code isn't written - it's sculpted through relentless refinement. I strive to build systems that are as maintainable as they are powerful, always balancing cutting-edge solutions with real-world practicality."*
-
----
-
-## 📬 Let's Connect !
-
-I'm always open to discussing:
-- Backend architecture challenges
-- Machine learning implementations
-- Open-source collaborations
-- Career opportunities
-
-
----
-
-
-## 📫 Contact Me
-
-- Email: [khamedkh297@gmail.com](mailto:khamedkh297@gmail.com)
-- LinkedIn : [Mohammed Taha](https://www.linkedin.com/in/khamedtaha/)
-- Twitter  : [Mohammed taha](https://x.com/khamedtaha)
+###

@@ -1,4 +1,4 @@
-![Alt text](Banner.png)
+![Alt text](Banner.jpg)
 
 <h2 align="left">Welcome to my account 👋! I'm Ahmed Djabrane</h2>
 
@@ -119,5 +119,7 @@
 </div>
 
 ###
+
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=djabranemmd&theme=radical&no-frame=false&no-bg=true&margin-w=4)

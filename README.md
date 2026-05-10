@@ -1,125 +1,132 @@
-![Alt text](Banner.jpg)
-
-<h2 align="left">Welcome to my account 👋! I'm Ahmed Djabrane</h2>
-
-###
-
-<p align="left">👋 Hi, I’m Ahmed Djabrane Mammadi !<br>A CS student passionate about turning ideas into code.  <br>🔧 Tech I love: HTML, CSS, JavaScript..etc<br>🌟 Currently learning: Fluter and Ethical Hacking.<br>📬 Reach me: mammadi.ahmeddjabrane@univ-ouargla.dz | [Portfolio](https://yourportfolio.link)</p>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djabranemmd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=250&section=header&text=Mammadi%20Ahmed%20Djabrane&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Building%20Digital%20Solutions&descAlignY=55&descAlign=50"/>
+
 </div>
 
-###
+<h1 align="center">Hi 👋, I'm Mammadi Ahmed Djabrane</h1>
 
-<h3 align="center">My Programming Languages</h3>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=windicss" height="30" alt="windicss logo"  />
-</div>
-
-###
-
-<h3 align="center">My Skils</h3>
-
-###
+<h3 align="center">
+Creative Full Stack Developer • Frontend Specialist • JavaScript Enthusiast
+</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B00&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Frontend+Specialist;Building+Modern+Digital+Experiences;JavaScript+Enthusiast;Always+Learning+New+Technologies"/>
+
 </div>
 
-###
+---
 
-<h3 align="center">My Accounts for communication</h3>
+## 🚀 About Me
 
-###
+```yaml
+Name: Mammadi Ahmed Djabrane
+Focus: Full Stack Development
+Specialization: Frontend Web Development
+Currently Learning:
+  - ReactJs
+  - NodeJs
+  - UI/UX
+  - Python
+  - Scalable Architecture
+
+Passionate About:
+  - Clean UI
+  - Interactive Interfaces
+  - Modern Web Experiences
+  - Digital Solutions
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="https://www.instagram.com/djabrane.mmd/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:mammadi.a.djabrane@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/djabranemammadi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Djabrane_mmd" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.facebook.com/I.am.Zixl/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
-  </a>
-  <a href="https://www.youtube.com/@otobottechl3965" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://linktr.ee/djabranemmd" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="47" height="35" alt="linktree logo"  />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,django,mysql,git,github,vscode&theme=dark" />
+
 </div>
 
-###
+---
 
-<h3 align="center">My Activity Schedule</h3>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djabranemmd/djabranemmd/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djabranemmd/djabranemmd/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/djabranemmd/djabranemmd/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/djabranemmd/count.svg?"  />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=djabranemmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djabranemmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=FFFFFF"/>
+
 </div>
 
-###
+---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
-![](https://github-profile-trophy.vercel.app/?username=djabranemmd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=djabranemmd&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00"/>
+
+</div>
+
+---
+
+## 🧠 Current Focus
+
+- ⚡ Building modern frontend interfaces
+- 🎨 Improving UI/UX design skills
+- 🧩 Developing JavaScript projects
+- 🌐 Exploring Full Stack Development
+- 🚀 Learning scalable architectures
+- 🔥 Creating visually polished web experiences
+
+---
+
+## 🌟 Featured Projects
+
+### 🧩 Sudoku Game
+Interactive Sudoku game built using HTML, CSS, and JavaScript.
+
+🔗 Repository:
+https://github.com/djabranemmd/sudoku-game
+
+---
+
+### 🔄 Text Transformer
+Modern text transformation utility with clean UI and JavaScript logic.
+
+🔗 Repository:
+https://github.com/djabranemmd/text-transformer
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/djabranemammadi/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Djabrane_mmd" target="_blank">
+<img src="https://img.shields.io/badge/Twitter/X-FF6B00?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/djabrane.mmd" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-FF6B00?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:mammadi.a.djabrane@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF6B00?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=footer"/>
+
+</div>

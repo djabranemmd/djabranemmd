@@ -100,7 +100,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=djabranemmd&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10" />
+<img src="https://metrics.lecoq.io/djabranemmd?template=classic&base=header%2C+activity%2C+community%2C+repositories&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FAlgiers&config.style=terminal&config.twemoji=true" width="100%"/>
 
 </div>
 

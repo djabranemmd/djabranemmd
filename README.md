@@ -1,58 +1,22 @@
 <div align="center">
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Djabrane+👋;Full+Stack+Developer+💻;Building+the+Future+🚀;Open+Source+Enthusiast+⚡" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ahmed_Djabrane_Mammadi&fontSize=60&color=0:00f5ff,50:4d79ff,100:bf5fff&fontColor=ffffff&animation=fadeIn&stroke=00f5ff&strokeWidth=2" width="100%"/>
+
+</div>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Digital+Experiences;Clean+Code+%7C+Creative+Solutions;Turning+Ideas+Into+Reality" alt="Typing" />
+</div>
 
 <br/>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=djabranemmd&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS" />
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=djabranemmd&style=for-the-badge&color=00f5ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/djabranemmd)
 &nbsp;
-<img src="https://img.shields.io/github/followers/djabranemmd?style=for-the-badge&color=4d79ff&labelColor=0d1117&label=FOLLOWERS" />
+[![GitHub followers](https://img.shields.io/github/followers/djabranemmd?style=for-the-badge&color=bf5fff&labelColor=0d1117&logo=github)](https://github.com/djabranemmd?tab=followers)
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE-39ff14?style=for-the-badge&labelColor=0d1117" />
-
-<br/><br/>
-
-<!-- Separator -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
-
-<br/>
-
-## 🧠 About Me
-
-```javascript
-const djabranemmd = {
-  role     : "Full Stack Developer",
-  location : "Algeria 🇩🇿",
-  focus    : ["Web Development", "Open Source", "Clean Code"],
-  status   : "Always learning something new 🚀",
-  contact  : "github.com/djabranemmd"
-};
-```
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-563D7C?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub Stars](https://img.shields.io/github/stars/djabranemmd?style=for-the-badge&color=ff2d87&labelColor=0d1117&logo=github&label=STARS)](https://github.com/djabranemmd)
 
 </div>
 
@@ -62,19 +26,52 @@ const djabranemmd = {
 
 <br/>
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=djabranemmd&show_icons=true&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&icon_color=4d79ff&text_color=e0e8ff&border_radius=12&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=djabranemmd&theme=tokyonight&border=00f5ff&background=0d1117&stroke=4d79ff&ring=00f5ff&fire=ff2d87&currStreakNum=e0e8ff&sideNums=e0e8ff&currStreakLabel=00f5ff&sideLabels=4d79ff&dates=8892b0&border_radius=12" />
+| 👤 | Info |
+|:---:|:---|
+| 🧑‍💻 | **Djabrane** |
+| 📍 | Algeria 🇩🇿 |
+| 💼 | Full Stack Developer |
+| 🔭 | Always building something new |
+| 🌱 | Currently learning DevOps & Cloud |
+| ✅ | Open for collaborations |
 
 </div>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djabranemmd&layout=compact&theme=tokyonight&border_color=00f5ff&bg_color=0d1117&title_color=00f5ff&text_color=e0e8ff&border_radius=12&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=djabranemmd&theme=tokyonight&utcOffset=1" />
+**🌐 Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**⚙️ Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+**🛢️ Database & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -84,11 +81,26 @@ const djabranemmd = {
 
 <br/>
 
-## 🏆 GitHub Trophies
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats
+
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=djabranemmd&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=djabranemmd&theme=transparent&hide_border=true&stroke=0000&background=0D1117&ring=00f5ff&fire=ff2d87&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00f5ff&sideLabels=4d79ff&dates=8892b0" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=djabranemmd&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10" />
 
 </div>
 
@@ -102,7 +114,7 @@ const djabranemmd = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=djabranemmd&bg_color=0d1117&color=00f5ff&line=4d79ff&point=ff2d87&area=true&area_color=00f5ff&hide_border=false&border_color=00f5ff&radius=12" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=djabranemmd&bg_color=0d1117&color=00f5ff&line=4d79ff&point=ff2d87&area=true&area_color=00f5ff20&hide_border=true&radius=8&custom_title=Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -112,11 +124,15 @@ const djabranemmd = {
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/djabranemmd/djabranemmd/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djabranemmd/djabranemmd/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djabranemmd/djabranemmd/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/djabranemmd/djabranemmd/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -124,36 +140,20 @@ const djabranemmd = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+<br/>
+
+## 💬 Random Dev Quote
+
 <div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=00f5ff&animation=twinkling&fontAlignY=70" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:bf5fff,50:4d79ff,100:00f5ff&section=footer&text=Happy+Coding!+⚡&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
 
 </div>
-</div>
-.github/workflows/snake.yml
-<div dir="rtl">
-  </div>
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: djabranemmd
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          <div dir="rtl">
